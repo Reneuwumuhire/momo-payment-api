@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/momo-payment-api/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/momo-payment-api/static/js/main.f749feba.chunk.js",
+    "main.js.map": "/momo-payment-api/static/js/main.f749feba.chunk.js.map",
+    "runtime-main.js": "/momo-payment-api/static/js/runtime-main.ede60e66.js",
+    "runtime-main.js.map": "/momo-payment-api/static/js/runtime-main.ede60e66.js.map",
+    "static/js/2.9bced7f4.chunk.js": "/momo-payment-api/static/js/2.9bced7f4.chunk.js",
+    "static/js/2.9bced7f4.chunk.js.map": "/momo-payment-api/static/js/2.9bced7f4.chunk.js.map",
+    "static/js/3.b8c20ff3.chunk.js": "/momo-payment-api/static/js/3.b8c20ff3.chunk.js",
+    "static/js/3.b8c20ff3.chunk.js.map": "/momo-payment-api/static/js/3.b8c20ff3.chunk.js.map",
+    "index.html": "/momo-payment-api/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/momo-payment-api/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.9bced7f4.chunk.js.LICENSE.txt": "/momo-payment-api/static/js/2.9bced7f4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/momo-payment-api/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ede60e66.js",
+    "static/js/2.9bced7f4.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f749feba.chunk.js"
+  ]
+}
